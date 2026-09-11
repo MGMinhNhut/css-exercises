@@ -1,1 +1,12 @@
 /* Add CSS Styling */
+.left_btn{
+    background-color: black;
+    color:white;
+}
+.right_btn{
+    background-color:yellow;
+}
+.left_btn, .right_btn{
+    font-size:24px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
